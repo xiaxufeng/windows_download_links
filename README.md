@@ -4,15 +4,7 @@
 ![SHA1 / SHA256 校验](https://img.shields.io/badge/校验-SHA1%20%2F%20SHA256-0ea5e9?style=flat-square)
 ![2026 持续更新](https://img.shields.io/badge/2026-持续更新-06b6d4?style=flat-square)
 
-> 整理自 **MSDN / VLSC** 的 Windows 11、10、8.1、7、Vista、XP 各版本原版 ISO 镜像，含 **ARM64** 与企业版 **LTSC**，并附带 **SHA1 / SHA256 / MD5** 校验值，部分提供英文版。
-
-## 网盘下载
-
-| 网盘 | 链接 |
-| --- | --- |
-| 夸克网盘（推荐） | <https://pan.quark.cn/s/8822b567e69e> |
-| 百度网盘 | <https://pan.baidu.com/s/1ftM3CMFkD40d4pvEZ_e-qw?pwd=yu3z> |
-| 迅雷网盘 | <https://pan.xunlei.com/s/VOqucbUmoUkDLfvzjOUDljIpA1?pwd=i2hf> |
+> 整理自 **MSDN / VLSC** 的 Windows 11、10、8.1、7、Vista、XP 各版本原版 ISO 镜像，含 **ARM64** 与企业版 **LTSC**，并附带 **SHA1 / SHA256 / MD5** 校验值，部分提供英文版\韩文版
 
 ---
 
